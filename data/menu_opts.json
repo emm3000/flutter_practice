@@ -15,6 +15,16 @@
             "ruta": "card",
             "icon": "folder_open",
             "text": "Cards - Tarjetas"
+        },
+        {
+            "ruta": "container",
+            "icon": "folder_open",
+            "text": "Container"
+        },
+        {
+            "ruta": "inputs",
+            "icon": "folder_open",
+            "text": "Sinputs"
         }
     ]
 }
